@@ -1,4 +1,4 @@
-<h1>Hey there! I am Kaustubh, aka, Kaus 👀✨</h1>
+<h1>Hey there! I am Kaustubh, aka, Kaus ✨</h1>
 <h3>Welcome to my little corner of ideas that (sometimes) work!💡🎢 Part-time programmer, full-time curious. I tinker with games, apps, and random ideas that somehow turn into projects. Curious about AI and always learning something new 📚🌟</h3> <br>
 
 <p>
