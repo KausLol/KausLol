@@ -22,7 +22,10 @@
   <img src="https://streak-stats.demolab.com?user=KausLol&theme=gruvbox" alt="streak stats" style="height: 250px;;">
 </div>
 
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 
