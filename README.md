@@ -27,20 +27,6 @@
 ✏️ Collecting mechanical pencils (yes, it’s a hobby)
 
 <br>
-<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> My Contributions </h2>
-
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=kauslol&theme=gruvbox&row=2&column=2&title=-Followers" alt="kauslol trophies" style="height: 225px;">
-  
-  <img>  
-  
-  <img src="https://streak-stats.demolab.com?user=KausLol&theme=gruvbox&card_width=460" alt="streak stats" style="height: 225px;;">
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
 <h2 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Roller%20Coaster.png" alt="Roller Coaster" width="25" height="25" /> Languages and Tools:</h2>
 
@@ -70,3 +56,17 @@
 [![VSCode](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio2.svg)](https://code.visualstudio.com/)
 [![PyCharm](https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm2.svg)](https://www.jetbrains.com/pycharm/)
 
+<br>
+
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> My Contributions </h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kauslol&theme=gruvbox&row=2&column=2&title=-Followers" alt="kauslol trophies" style="height: 225px;">
+  <img>  
+  <img src="https://streak-stats.demolab.com?user=KausLol&theme=gruvbox&card_width=460" alt="streak stats" style="height: 225px;;">
+</div>
+
+<h4 align="center"> I like to think of this profile as a sandbox of experiments; Some work, some don’t, but all teach me something new.</h4>  
+<h3 align="center"> Thank you for checking me out! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /></h3>
+
+<!-- ![snake gif](https://github.com/KausLol/KausLol/blob/output/github-snake-dark.svg) -->
