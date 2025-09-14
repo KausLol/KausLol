@@ -1,4 +1,9 @@
-<h1><img src="" alt="header"></h1>
+<h1>
+  <img src="header2.png" alt="header"><p></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=C4EBFF&width=920&lines=Welcome+to+my+little+corner+of+ideas+that+%28sometimes%29+work")](https://git.io/typing-svg)
+</h1>
+
+
 <h3>Welcome to my little corner of ideas that (sometimes) work!💡 Part-time programmer, full-time curious. I tinker with games, apps, and random ideas that somehow turn into projects. Curious about AI and always learning something new 📚🌟</h3> <br>
 
 <p>
