@@ -3,14 +3,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=C4EBFF&width=920&lines=Welcome+to+my+little+corner+of+ideas+that+%28sometimes%29+work")](https://git.io/typing-svg)
 </h1>
 
+<h3> I’m a Computer Science student who learns by building. I like experimenting with apps, games, and side projects that help me explore new ideas.</h3>
+<h3>Things I enjoy: </h3>
 
-<h3>Welcome to my little corner of ideas that (sometimes) work!💡 Part-time programmer, full-time curious. I tinker with games, apps, and random ideas that somehow turn into projects. Curious about AI and always learning something new 📚🌟</h3> <br>
+🖥️ Working with C++, Python, or JavaScript
 
-<p>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=kauslol&theme=onedark&row=1&column=5" alt="kauslol trophies"/>
-</a>
-</p>
+🤖 Learning fundamentals & advanced topics
+
+🎮 Playing with game mechanics and interactive ideas
+
+✏️ Collecting mechanical pencils (yes, it’s a hobby)
+
+<br>
+<h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> My Contributions </h2>
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=kauslol&theme=gruvbox&row=2&column=2&title=-Followers" alt="kauslol trophies" style="height: 250px;">
+  <img src="https://streak-stats.demolab.com?user=KausLol&theme=gruvbox" alt="streak stats" style="height: 250px;;">
+</div>
+
 
 
 ---
