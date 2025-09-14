@@ -18,8 +18,8 @@
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> My Contributions </h2>
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=kauslol&theme=gruvbox&row=2&column=2&title=-Followers" alt="kauslol trophies" style="height: 250px;">
-  <img src="https://streak-stats.demolab.com?user=KausLol&theme=gruvbox" alt="streak stats" style="height: 250px;;">
+  <img src="https://github-profile-trophy.vercel.app/?username=kauslol&theme=gruvbox&row=2&column=2&title=-Followers" alt="kauslol trophies" style="height: 200px;">
+  <img src="https://streak-stats.demolab.com?user=KausLol&theme=gruvbox" alt="streak stats" style="height: 200px;;">
 </div>
 
 <picture>
