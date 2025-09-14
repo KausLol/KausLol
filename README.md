@@ -1,9 +1,9 @@
-<h1>Hey there! I am Kaustubh, aka, Kaus ✨</h1>
-<h3>Welcome to my little corner of ideas that (sometimes) work!💡🎢 Part-time programmer, full-time curious. I tinker with games, apps, and random ideas that somehow turn into projects. Curious about AI and always learning something new 📚🌟</h3> <br>
+<h1><img src="" alt="header"></h1>
+<h3>Welcome to my little corner of ideas that (sometimes) work!💡 Part-time programmer, full-time curious. I tinker with games, apps, and random ideas that somehow turn into projects. Curious about AI and always learning something new 📚🌟</h3> <br>
 
 <p>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=kauslol&exclude=Followers,Stars,PullRequest,Issues,Repositories,MultiLanguage&theme=onedark&row=1&column=2" alt="kauslol trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kauslol&theme=onedark&row=1&column=5" alt="kauslol trophies"/>
 </a>
 </p>
 
