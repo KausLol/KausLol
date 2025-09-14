@@ -13,7 +13,7 @@
   </a>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CED6FF&width=900&lines=Welcome+to+my+little+corner+of+ideas+that+(sometimes)+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CED6FF&width=950&lines=Welcome+to+my+little+corner+of+ideas+that+(sometimes)+work;A+collection+of+projects+held+together+by+caffeine+and+optimism)](https://git.io/typing-svg)
 
 <h3> I’m a Computer Science student who learns by building. I like experimenting with apps, games, and side projects that help me explore new ideas.</h3>
 <h3>Things I enjoy: </h3>
