@@ -1,19 +1,19 @@
 <h1>
-  <img src="header2.png" alt="header"><p></p>
+  <img src="headerFinal.png" alt="header"><p></p>
   
   <!-- Social badges -->
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/kaustubh-shirke-7a5772332/">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/kaus2006_lol">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram3.svg" alt="Instagram">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kaustubhshirke2006@gmail.com">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg" alt="Email">
   </a>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=C4EBFF&width=920&lines=Welcome+to+my+little+corner+of+ideas+that+%28sometimes%29+work">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=CED6FF&width=900&lines=Welcome+to+my+little+corner+of+ideas+that+(sometimes)+work)](https://git.io/typing-svg)
 
 <h3> I’m a Computer Science student who learns by building. I like experimenting with apps, games, and side projects that help me explore new ideas.</h3>
 <h3>Things I enjoy: </h3>
@@ -31,8 +31,10 @@
 
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=kauslol&theme=gruvbox&row=2&column=2&title=-Followers" alt="kauslol trophies" style="height: 225px;">
-  <img>
-  <img src="https://streak-stats.demolab.com?user=KausLol&theme=gruvbox" alt="streak stats" style="height: 225px;;">
+  
+  <img>  
+  
+  <img src="https://streak-stats.demolab.com?user=KausLol&theme=gruvbox&card_width=460" alt="streak stats" style="height: 225px;;">
 </div>
 
 <picture>
