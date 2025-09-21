@@ -18,7 +18,7 @@
 <h3> I’m a Computer Science student who learns by building. I like experimenting with apps, games, and side projects that help me explore new ideas.</h3>
 <h3>Things I enjoy: </h3>
 
-🖥️ Working with C++ and Python
+🖥️ Working with Python and its libraries
 
 🤖 Learning fundamentals & advanced topics
 
