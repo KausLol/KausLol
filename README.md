@@ -61,9 +61,9 @@
 <h2> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /> My Contributions </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kauslol&theme=gruvbox&row=2&column=2&title=-Followers,-Issues" alt="kauslol trophies" style="height: 225px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=kauslol&theme=gruvbox&row=2&column=2&title=-Followers,-Issues&no-frame=true" alt="kauslol trophies" style="height: 225px;">
   <img>  
-  <img src="https://streak-stats.demolab.com?user=KausLol&theme=gruvbox&card_width=460" alt="streak stats" style="height: 225px;;">
+  <img src="https://streak-stats.demolab.com?user=KausLol&theme=gruvbox&hide_border=true&card_width=460" alt="streak stats" style="height: 225px;;">
 </div>
 
 <h4 align="center"> I like to think of this profile as a sandbox of experiments; Some work, some don’t, but all teach me something new.</h4>  
