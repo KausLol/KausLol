@@ -69,4 +69,4 @@
 <h4 align="center"> I like to think of this profile as a sandbox of experiments; Some work, some don’t, but all teach me something new.</h4>  
 <h3 align="center"> Thank you for checking me out! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Blue%20Heart.png" alt="Blue Heart" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /></h3>
 
-<!-- ![snake gif](https://github.com/KausLol/KausLol/blob/output/github-snake-dark.svg) -->
+![snake gif](https://github.com/KausLol/KausLol/blob/output/github-snake-dark.svg)
